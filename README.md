@@ -12,10 +12,15 @@ https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/dev-resources.csv
 
 ##### chris.css
 
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/uikit.css
+
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/uikit.min.css
+
+##### UI KIT
+
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.css
 
-https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris.css
-
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.css
 
 ### add ".min" to any JS/CSS file to get a minified version
 
