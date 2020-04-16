@@ -8,6 +8,8 @@ Using this repo as a personal CDN with [jsdelivr](https://www.jsdelivr.com/?docs
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki.css
 
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/dev-resources.csv
+
 ##### chris.css
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.css
@@ -37,6 +39,8 @@ https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris.min.css
 ##### devWiki
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki.css/
+
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/dev-resources.csv/
 
 ##### chris.css
 
