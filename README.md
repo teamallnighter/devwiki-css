@@ -8,6 +8,8 @@ Using this repo as a personal CDN with [jsdelivr](https://www.jsdelivr.com/?docs
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki.css
 
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.css
+
 
 // add ".min" to any JS/CSS file to get a minified version
 
@@ -17,6 +19,12 @@ https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki.css
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki..min.css
 
 
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.min.css
+
+
 // add / at the end to get a directory listing
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/devwiki.css/
+
+
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/chris-grid.css/
