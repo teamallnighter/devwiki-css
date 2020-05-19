@@ -28,8 +28,6 @@ https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/markup/marked.min.js
 
 https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/markup/markitdown.min.js
 
-#####
-https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/vyyl/player.js
 
 
 ### add ".min" to any JS/CSS file to get a minified version
@@ -37,4 +35,12 @@ https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/vyyl/player.js
 ####if one doesn't exist, we'll generate it for you
 
 ### add / at the end to get a directory listing
+
+
+##### VYYL
+
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/vyyl/index.css
+
+https://cdn.jsdelivr.net/gh/teamallnighter/ghcdn/vyyl/player.js
+
 
